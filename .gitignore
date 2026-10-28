@@ -1,0 +1,17 @@
+# Dataset
+creditcard.csv
+*.csv
+
+# Models
+models/
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment / secrets
+.env
+.env.*
